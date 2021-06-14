@@ -2,6 +2,8 @@
 
 A Clojure SDK for the Coinbase Pro API
 
+https://docs.pro.coinbase.com/
+
 ## To Do:
 
 - Rate limits
