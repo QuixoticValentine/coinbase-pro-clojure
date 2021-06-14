@@ -1,6 +1,11 @@
 # cbpro
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure SDK for the Coinbase Pro API
+
+## To Do:
+
+
+
 
 ## Usage
 
