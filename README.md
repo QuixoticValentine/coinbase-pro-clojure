@@ -4,7 +4,24 @@ A Clojure SDK for the Coinbase Pro API
 
 ## To Do:
 
-
+- Rate limits
+- Authentication
+- accounts
+- orders
+- fills
+- limits
+- deposits
+- withdrawals
+- stablecoin conversion
+- payment methods
+- coinbase accounts
+- fees
+- reports
+- profile
+- products
+- currencies
+- time
+- websocket
 
 
 ## Usage
